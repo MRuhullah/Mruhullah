@@ -14,6 +14,12 @@
 
 ###
 
+ I'm currently learning about coding and exploring different areas of technology. This space is where I'll be sharing my progress, projects, and everything I build along the way.
+
+It's just the beginning, but there's a lot more to come.
+
+###
+
 <h2 align="left">LANGUAGES :</h2>
 
 ###
