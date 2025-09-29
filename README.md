@@ -1,4 +1,4 @@
- <h3 align="center">Hi I'm Ruhullah</h3>
+ <h3 align="center"> Hi there, I’m Ruhullah 👋</h3>
 
 ###
 
@@ -13,11 +13,16 @@
 </picture>
 
 ###
+  ## A Bit About Myself
 
- I'm currently learning about coding and exploring different areas of technology. This space is where I'll be sharing my progress, projects, and everything I build along the way.
+I’m a developer who enjoys working on a variety of projects and picking up new skills along the way. My interests include exploring programming concepts, building practical solutions, and occasionally contributing to open-source. I like to experiment with different ideas—sometimes it’s a small script to solve a problem, other times it’s a more involved project that I share here.
 
-It's just the beginning, but there's a lot more to come.
+I value learning by doing, and I’m always open to connecting with others who have similar interests. Feel free to browse my repositories, offer suggestions, or just say hello!
 
+## 🌱 What I’m Learning
+- Improving my understanding of advanced programming  
+- Writing cleaner and more maintainable code   
+- Exploring new tools and technologies
 ###
 
 <h2 align="left">LANGUAGES :</h2>
