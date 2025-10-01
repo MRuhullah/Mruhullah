@@ -19,6 +19,10 @@ I’m a developer who enjoys working on a variety of projects and picking up new
 
 I value learning by doing, and I’m always open to connecting with others who have similar interests. Feel free to browse my repositories, offer suggestions, or just say hello!
 
+## 🧑‍💻 What I’m Working On
+- Leveling up my coding skills one semicolon at a time
+- Breaking, fixing, and sometimes actually running code
+ 
 ## 🌱 What I’m Learning
 - Improving my understanding of advanced programming  
 - Writing cleaner and more maintainable code   
